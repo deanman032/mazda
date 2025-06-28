@@ -11,7 +11,7 @@ Introduction 🚗
 
 Driving with outdated maps is like using a compass in a storm — not ideal! If you’re using a Mazda vehicle equipped with Mazda Connect, keeping your **mazda GPS update** current is essential. Updated navigation helps you avoid traffic, discover new roads, and get to your destination stress-free. In this guide, we’ll show you how to **update Mazda maps**, understand the tools you need, and ensure your navigation system is always ready for the road. 🚦
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
